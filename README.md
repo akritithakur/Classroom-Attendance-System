@@ -1,0 +1,2 @@
+# Classroom-Attendance-System
+A system for making the attendance keeping process non-exploitable, less time consuming, and user-friendly. On the frontend, it consists of an android application for students and a computer software for the instructor. The backend comprises database management, face recognition processing and executable code files on the server that accept legitimate attendance requests and prevent exploitation.
